@@ -1,0 +1,11 @@
+https://developers.google.com/web/fundamentals/primers/async-functions#:~:text=If%20you%20use%20the%20async,the%20rejected%20value%20is%20thrown.
+
+https://stackoverflow.com/questions/33289726/combination-of-async-function-await-settimeout
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function
+
+https://dev.to/kylejb/a-key-difference-between-then-and-async-await-in-javascript-53e9
+
+https://blog.pusher.com/promises-async-await/
+
+https://www.thirdrocktechkno.com/blog/when-and-how-to-use-async-await/

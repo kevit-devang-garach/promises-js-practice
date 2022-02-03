@@ -1,0 +1,25 @@
+{
+  "name": "promises-js-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "promise-task1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevit-devang-garach/promises-js-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kevit-devang-garach/promises-js-practice/issues"
+  },
+  "homepage": "https://github.com/kevit-devang-garach/promises-js-practice#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "axios": "^0.25.0"
+  }
+}
